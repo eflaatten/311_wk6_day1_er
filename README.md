@@ -86,4 +86,4 @@ TIMESTAMP
 
 2. Copy the screenshot to this directory and upload it (git push) along with this README
 
-(wk6_er_diagram.png)
+![ER Diagram](wk6_er_diagram.png)
